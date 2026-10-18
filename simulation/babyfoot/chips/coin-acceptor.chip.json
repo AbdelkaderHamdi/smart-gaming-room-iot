@@ -1,0 +1,6 @@
+{
+  "name": "Coin Acceptor",
+  "author": "Smart Gaming Room",
+  "pins": ["VCC", "GND", "INSERT", "SIGNAL"],
+  "controls": []
+}
